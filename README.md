@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/ak2502/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ak2502&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ak2502/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ak2502&repo=convoychat" />
+</a>
 
 ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2502&theme=midnight-purple&show_icons=true)
 
