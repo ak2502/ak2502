@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2502&theme=midnight-purple&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak2502&layout=compact)](https://github.com/ak2502/github-readme-stats)
+
