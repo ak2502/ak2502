@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/ak2502/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ak2502&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ak2502&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/ak2502/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ak2502&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2502&layout=compact)](https://github.com/ak2502/github-readme-stats" />
 </a>
 
 ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak2502&theme=midnight-purple&show_icons=true)
