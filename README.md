@@ -7,7 +7,7 @@
   <img align="left" alt="Akanksha's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.linkedin.com/in/akankksha25/">
-  <img align="left" alt="Akanksha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="Akanksha's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br />
